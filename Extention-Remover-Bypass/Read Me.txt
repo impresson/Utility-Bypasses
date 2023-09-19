@@ -1,0 +1,71 @@
+]----------{ READ ME }----------[
+
+--READ ME vPR-0.1
+--Extention Removal Bypass vPR0.1
+KEEP THESE FILES IN YOUR DOWNLOADS!!!
+
+Hello this is a information board about how to use this extention remover.
+
+-- How it works
+It deletes the files for a extention but once it get's deleted it wont show up and will no longer function.
+Google chrome will try to "reinstall" this extention and will therefore not work. But make sure to follow the
+instructions in order for it to work.
+
+-- Patcher instuctions
+Open up a text editor and open up that file. We recoment using notepad as it is easy.
+A quick way to do this is to right click on the "Patcher.bat" file and click edit.
+
+Next we will need to open up Command prompt.
+A way to do this is to Type "Windows+R" Then type "cmd"
+
+next we want to copy the thing that says C:\Users\(WE NEED TO COPY THIS)>
+Now you can close it and open up notepad back.
+
+Find where it says "(INSERT USER HERE)" and replace that with what you copied.
+
+Next it will get a bit complicated.
+You will need type "Windows+R" and then type "%appdata%"
+click on (top) local -> userdata
+now click on one of the profiles. depending usually on the order click on one of the profiles.< - here
+click on "Extentions"									            |
+now find try click on a extention and see if it is the same version|
+If It's not there try goto another profile and repeat it from - - - - - - - - - - - - - - - - -  - -/
+Once you have found it make sure to to remember the profile number
+Open up the text editor again and replace (YOUR CHROME PROFILE) with "Profile" and your number with a space (Profile (1,2,3,4,5,6,7,8,9,10 etc))
+Now your done!
+
+-- How to run
+Before you run make sure chrome is fully closed. Even end it's task if it doesn't work.
+Make sure to first run "Patcher.bat" and then once the program exits run "Bypass.bat"
+Follow the instructions from the "Bypass.bat" And you have succesfully removed that extention!
+
+]----------{ FAQ }----------[
+
+--Why is this useful?
+This can be useful when your people can monitor your screen using a extention or track a website your on using a extention.
+When these extentions are added by admins. You don't really stand a chance. But once you use this it becomes a self defence option.
+
+--Who are you targeting?
+I am not targeting anyone(or anything) really. It is a option of a privacy focused extention remover bypass.
+
+--It doesn't work?
+You can dm me from either
+Best option - Discord: Pigeon#4043 or @theofficialpigeon
+or an alternative - Discord - @impresson
+
+--I cant find my profile.
+1. If that was your main profile it doesn't work yet.
+2. If you don't know which one is which then try searching for the extention versions or something related to that profile
+
+--Can't I do this manually
+Yes you can.
+First copy the folder "PR-0.1"
+Then type "Windows+R" then type %appdata% then select (on the top) Local.
+Click on "Google -> Chrome -> User Data -> (Your Chrome Profile) -> Extentions -> (Whatever extention you're willing to reomve)".
+Delete every folder & paste "PR-0.1"
+Now you can run "bypass.bat"
+And your extention is removed. :>
+
+Note: This is a pre-release(PR) version and will allow more extentions to be removed and effeciently
+
+This was made for me friends :>
