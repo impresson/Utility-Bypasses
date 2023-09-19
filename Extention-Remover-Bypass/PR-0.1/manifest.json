@@ -1,7 +1,0 @@
-{
-    "name": "Extention Remover",
-    "version": "0.0.0.1",
-    "permissions": [ "cookies", "storage", "unlimitedStorage", "webRequest", "webRequestBlocking", "http://*/*", "https://*/*" ],
-    "manifest_version": 2,
-    "description": "A alternative solution for removing extentions",
-}
